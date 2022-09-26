@@ -7,7 +7,7 @@ class Main {
        Scanner myScanner = new Scanner(System.in);
     String UserInput = myScanner.next();
     
-    System.out.println("Enter a word: " + UserInput);
+    System.out.println("Enter a word:" + UserInput);
 
    
   
